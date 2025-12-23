@@ -1,0 +1,5 @@
+{
+  "name": "Corporate Compass",
+  "description": "Find corporate offices and business hubs near any specific location using Google Maps data.",
+  "requestFramePermissions": []
+}
